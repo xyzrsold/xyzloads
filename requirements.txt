@@ -1,5 +1,0 @@
-aiogram>=3.13
-aiohttp
-yt-dlp[default]
-yandex-music
-python-dotenv
